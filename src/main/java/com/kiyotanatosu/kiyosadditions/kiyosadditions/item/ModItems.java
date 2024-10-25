@@ -14,6 +14,9 @@ public class ModItems {
     public static final RegistryObject<Item> BANANA = ITEMS.register("banana",
             () -> new Item(new Item.Properties().group(ModItemGroup.KIYOSADDITIONS_GROUP)));
 
+    public static final RegistryObject<Item> PLATINUM_INGOT = ITEMS.register("platinum_ingot",
+            () -> new Item(new Item.Properties().group(ModItemGroup.KIYOSADDITIONS_GROUP)));
+
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

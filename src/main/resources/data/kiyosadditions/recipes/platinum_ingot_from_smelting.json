@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kiyosadditions:platinum_ore"
+  },
+  "result": "kiyosadditions:platinum_ingot",
+  "experience": 0.25,
+  "cookingtime": 200
+}

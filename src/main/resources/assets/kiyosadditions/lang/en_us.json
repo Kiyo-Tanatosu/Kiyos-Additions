@@ -1,5 +1,7 @@
 {
   "item.kiyosadditions.banana": "Banana",
 
+  "item.kiyosadditions.platinum_ingot": "Platinum Ingot",
+  "block.kiyosadditions.platinum_ore": "Platinum Ore",
   "itemGroup.KiyosAdditionsTab": "Kiyo's Additions"
 }
