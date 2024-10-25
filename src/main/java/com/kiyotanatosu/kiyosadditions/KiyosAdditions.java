@@ -1,5 +1,6 @@
 package com.kiyotanatosu.kiyosadditions;
 
+import com.kiyotanatosu.kiyosadditions.kiyosadditions.block.ModBlocks;
 import com.kiyotanatosu.kiyosadditions.kiyosadditions.item.ModItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -35,6 +36,8 @@ public class KiyosAdditions
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ModItems.register(eventBus);
+
+        ModBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
         // Register the enqueueIMC method for modloading
