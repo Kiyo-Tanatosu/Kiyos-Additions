@@ -2,6 +2,15 @@
   "item.kiyosadditions.banana": "Banana",
 
   "item.kiyosadditions.platinum_ingot": "Platinum Ingot",
+  "item.kiyosadditions.platinum_sword": "Platinum Sword",
+  "item.kiyosadditions.platinum_axe": "Platinum Axe",
+  "item.kiyosadditions.platinum_pickaxe": "Platinum Pickaxe",
+  "item.kiyosadditions.platinum_shovel": "Platinum Shovel",
+  "item.kiyosadditions.platinum_hoe": "Platinum Hoe",
+  "item.kiyosadditions.platinum_helmet": "Platinum Helmet",
+  "item.kiyosadditions.platinum_chestplate": "Platinum Chestplate",
+  "item.kiyosadditions.platinum_leggings": "Platinum Leggings",
+  "item.kiyosadditions.platinum_boots": "Platinum Boots",
   "block.kiyosadditions.platinum_ore": "Platinum Ore",
   "itemGroup.KiyosAdditionsTab": "Kiyo's Additions"
 }
